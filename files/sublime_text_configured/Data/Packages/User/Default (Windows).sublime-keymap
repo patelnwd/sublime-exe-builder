@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+alt+l"], "command": "reindent", "args": {"single_line": false}},
+	{ "keys": ["alt+1"], "command": "toggle_side_bar"},
+	{ "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" }
+]

@@ -1,0 +1,12 @@
+{
+    "ensure_ascii": false,
+    "indent": 4,
+    "keep_arrays_single_line": false,
+    "line_separator": ",",
+    "max_arrays_line_length": 120,
+    "pretty_on_save": true,
+    "sort_keys": "ctrl+alt+j",
+    "use_entire_file_if_no_selection": true,
+    "validate_on_save": true,
+    "value_separator": ": "
+}

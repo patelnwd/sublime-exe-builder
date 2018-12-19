@@ -1,0 +1,8 @@
+{
+  // Replace with your own path to cmder.exe
+  "terminal": "C:\\Program Files\\ConEmu\\ConEmu64.exe",
+  "command": "open_terminal",
+  "args": {
+    "parameters": ["-T", "Custom Window Title"]
+  }
+}

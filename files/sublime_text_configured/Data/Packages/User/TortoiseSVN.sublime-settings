@@ -1,0 +1,4 @@
+{
+	// Auto close commit dialog when no errors, conflicts and merges
+	"autoCloseCommitDialog": false,
+}

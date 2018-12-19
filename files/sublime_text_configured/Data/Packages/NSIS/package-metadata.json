@@ -1,0 +1,1 @@
+{"url": "https://github.com/SublimeText/NSIS", "platforms": ["*"], "dependencies": [], "sublime_text": ">=3103", "version": "2.5.0", "description": "Sublime Text plugin for the Nullsoft Scriptable Install System"}
